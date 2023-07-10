@@ -1,0 +1,17 @@
+/*
+Theme Name: Contact Wordpress Plugin
+Author: Sindhu Periasamy
+Description: Wordpress Contact Plugin Style
+Version: 0.0.1
+Tags: Wordpress Custom Plugin
+*/
+
+body {
+	background-color: #fbfbfb;
+}
+.errorMsg{
+	height:15px;
+	display:block;
+	color:red;
+	margin-bottom:5px;
+}
